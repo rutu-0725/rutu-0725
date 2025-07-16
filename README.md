@@ -6,9 +6,8 @@
 ### 💡 About Me
 I am a passionate AI & Data Science Engineer skilled in data-driven solutions and intelligent application development. I enjoy transforming data into actionable insights and building machine learning models.
 
-- 🎓 **Education**: B.E. in Artificial Intelligence & Data Science | 9.05 SGPA  
+- 🎓 **Education**: B.E. in Artificial Intelligence & Data Science | 8.35 CGPA  
 - 🌍 **Location**: Nashik, India  
-- 💼 **LinkedIn**: [Rutuja Pawar](https://www.linkedin.com/in/rutuja-pawar-232248212/)  
 - 📫 **Email**: [rutujapawar0725@gmail.com](mailto:rutujapawar0725@gmail.com)  
 
 ---
@@ -40,5 +39,5 @@ A few of my projects that leverage machine learning and data science:
 ### 🔗 Let’s Connect
 Interested in discussing AI, data science, or potential collaborations? Feel free to reach out!
 
-🌐 [LinkedIn](https://www.linkedin.com/in/rutuja-pawar-232248212/) | ✉️ [Email](mailto:rutujapawar0725@gmail.com) | 🌟 [GitHub](https://github.com/rutu-0725)  
+🌐 [LinkedIn](https://www.linkedin.com/in/rutuja-pawar-232248212/) | ✉️ [Email](mailto:rutujapawar0725@gmail.com) 
 
